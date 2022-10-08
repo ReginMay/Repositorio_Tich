@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\bin\Debug\IntroduccionCS.exe.config
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\bin\Debug\IntroduccionCS.exe
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\bin\Debug\IntroduccionCS.pdb
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\obj\Debug\IntroduccionCS.exe
+C:\Users\Tichs\Documents\Introducción C#\holaMundo\IntroduccionCS\obj\Debug\IntroduccionCS.pdb

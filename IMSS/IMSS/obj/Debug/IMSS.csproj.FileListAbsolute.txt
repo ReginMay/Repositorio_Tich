@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\obj\Debug\IMSS.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\obj\Debug\IMSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\obj\Debug\IMSS.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\obj\Debug\IMSS.exe
+C:\Users\Tichs\Desktop\VISUAL STUDIO\INTRODUCCION\IMSS\IMSS\obj\Debug\IMSS.pdb
